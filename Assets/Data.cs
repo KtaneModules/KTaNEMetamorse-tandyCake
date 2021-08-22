@@ -17,7 +17,7 @@ public static class Data {
     public static readonly Dictionary<char, string> MorseTranslation = new Dictionary<char, string>()
     {
         { 'A', ".-"   },
-        { 'B', "...-" },
+        { 'B', "-..." },
         { 'C', "-.-." },
         { 'D', "-.."  },
         { 'E', "."    },
