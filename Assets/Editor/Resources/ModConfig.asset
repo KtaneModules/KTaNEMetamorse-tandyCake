@@ -13,9 +13,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: metamorse
   title: Metamorse
-  author: Danny7007
+  author: tandyCake
   description: "Look! There\u2019s a hidden message in the hidden message!\r\n\nModule
     by Danny7007\nmoduleID: metamorse\nManual can be found at ktane.timwi.de"
-  version: 1.0.0
+  version: 1.0.2
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 0b8eb95ca3a1b8b4b9427fd834e52a9d, type: 3}
